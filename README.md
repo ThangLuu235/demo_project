@@ -2,6 +2,10 @@
 
 #Test cách xài readme
 <p align="center">
-  <img width="100" height="150" src="![image](https://github.com/ThangLuu235/demo_project/assets/144312648/2b8b6004-1e1d-413a-8ee2-4eadcfaa844c)">
+  <img width="100" height="150" src="https://github.com/ThangLuu235/demo_project/assets/144312648/ec8815cd-c85d-4193-95bb-bfc63f6d0093">
+  <img width="100" height="150" src="https://github.com/ThangLuu235/demo_project/assets/144312648/ec8815cd-c85d-4193-95bb-bfc63f6d0093">
+  <img width="100" height="150" src="https://github.com/ThangLuu235/demo_project/assets/144312648/ec8815cd-c85d-4193-95bb-bfc63f6d0093">
 </p>
+
+
 
